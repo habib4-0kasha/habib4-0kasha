@@ -32,7 +32,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [🔍 File Metadata Extractor](https://github.com/habib4-0kasha/file-metadata-extractor) | DFIR tool that extracts metadata, hashes, EXIF data and generates forensic reports | Python, exifread, PyPDF2 |
+| [File Metadata Extractor](https://github.com/habib4-0kasha/file-metadata-extractor) | DFIR tool that extracts metadata, hashes, EXIF data and generates forensic reports | Python, exifread, PyPDF2 |
 
 ---
 
