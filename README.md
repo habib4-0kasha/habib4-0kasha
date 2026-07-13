@@ -10,9 +10,9 @@
 ### About Me
 
 - Studying BSc Computer Science with a Cybersecurity specialization at UOWD
-- 1st Place — Khalifa University Digital Forensics Competition, awarded by H.E. Dr. Mohamed Hamad Al-Kuwaiti
+- 1st Place - Khalifa University Digital Forensics Competition, awarded by H.E. Dr. Mohamed Hamad Al-Kuwaiti
 - Completed the Google Cybersecurity Certificate (all 8 courses)
-- Based in UAE — open to DFIR & cybersecurity internships
+- Based in UAE - open to DFIR & cybersecurity internships
 - Currently building my DFIR project portfolio
 
 ---
@@ -39,7 +39,7 @@
 ### Certifications
 
 - Google Cybersecurity Certificate — Coursera
-- SAP Certification — In Progress
+- SAP S/4HANA Cloud Public Edition Certification — In Progress
 
 ---
 
