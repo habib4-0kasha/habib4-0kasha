@@ -39,7 +39,7 @@
 ### Certifications
 
 - Google Cybersecurity Certificate — Coursera
-- SAP S/4HANA Cloud Public Edition Certification — In Progress
+- SAP S/4HANA Cloud Public Edition Certification
 
 ---
 
