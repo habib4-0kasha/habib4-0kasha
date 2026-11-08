@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Habiba!</h1>
 
 <p align="center">
+    Cybersecurity Intern @ CyberKnight <br>
   Computer Science (Cybersecurity) Student @ University of Wollongong in Dubai <br>
   Passionate about Digital Forensics & Incident Response (DFIR) 
 </p>
@@ -9,15 +10,15 @@
 
 ### About Me
 
+- Cybersecurity Intern on the technical team at CyberKnight
 - Studying BSc Computer Science with a Cybersecurity specialization at UOWD
 - 1st Place - Khalifa University Digital Forensics Competition, awarded by H.E. Dr. Mohamed Hamad Al-Kuwaiti
-- Completed the Google Cybersecurity Certificate (all 8 courses)
-- Based in UAE - open to DFIR & cybersecurity internships
-- Currently building my DFIR project portfolio
+- Google Cybersecurity Certificate, Blue Team Junior Analyst Pathway, SAP S/4HANA Cloud Public Edition
+- Building a DFIR project portfolio
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -40,15 +41,6 @@
 
 - Google Cybersecurity Certificate — Coursera
 - SAP S/4HANA Cloud Public Edition Certification
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habib4-0kasha&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib4-0kasha&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</p>
 
 ---
 
